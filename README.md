@@ -1,0 +1,2 @@
+# Javascript fundamentals 1
+ 
